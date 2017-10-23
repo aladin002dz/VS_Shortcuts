@@ -1,5 +1,6 @@
 # Visual Studio Text Editor shortcuts:
 
+## Text navigation:
 - Ctrl+(left/right arrow): move one word at a time.
 
 - Ctrl+C at the begining of a line: copy the line.
